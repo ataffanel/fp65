@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "/home/arnaud/dev/ecad/fp65/libs/Library.pretty")(options "")(descr ""))
+)
