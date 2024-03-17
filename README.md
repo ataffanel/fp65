@@ -42,3 +42,7 @@ The board made so far are:
 
 FP65 has a memory map and I/O compatible with an apple-I (when using the USBIO-A board).
 As such it can run WOZMON, the apple-I monitor, and any apple-I/replica-I software directly.
+
+# License
+
+All the board in this repos are licenced under the *CERN Open Hardware Licence Version 2 - Strongly Reciprocal* (CERN-OHL-S) license.
