@@ -38,6 +38,9 @@ The board made so far are:
  - [SIO-A](sio-a/): 16C550 UART with RS232-level and TTS-level connection plus 65C22 VIA for Timer and parallel (GP)I/O
  - [USBIO-A](usbio-a/): APPLE-I style emulated I/O to a USB-serial port.
 
+Most boards have been revised since the rev-A was produced.
+Rev-Bs are implementation of the bodge wires fixes, they still need to be produced and tested.
+
 # Software
 
 FP65 has a memory map and I/O compatible with an apple-I (when using the USBIO-A board).
