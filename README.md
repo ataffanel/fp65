@@ -31,7 +31,7 @@ Of course the memory used, be it static RAM or ROM (actually a FLASH chip), are 
 
 The board made so far are:
  - [Backplane](backplane/): 50-pins 4 boards backplane with power supply and chaining connectors
- - [MCU-A](mcu-a/): wdc65C02s CPU board with clock
+ - [MPU-A](mpu-a/): wdc65C02s CPU board with clock
  - [RAM-A](ram-a/): 32KBytes static ram
  - [ROM-A](rom-a/): 4KBytes to 24KBytes ROM. Implemented in a 128KBytes FLASH with 8 static pages (dip-switch selectable).
  - [SCSI-A](scsi-a/): Asynchronous 8bit SCSI-SC interface. SCSI2 compatible with internal and external MAC-style connector.
